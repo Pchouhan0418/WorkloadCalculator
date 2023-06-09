@@ -1,4 +1,4 @@
-# AIHR - Workload Calculator (Coding Assignment)
+# Workload Calculator (Coding Assignment)
 
 ## How to Run
 First, navigate to the root of the project.
